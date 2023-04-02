@@ -1,0 +1,10 @@
+﻿  test.c
+D:\Test\Test_2023_326\Test_2023_326\test.c(274,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Test\Test_2023_326\Test_2023_326\test.c(274,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Test\Test_2023_326\Test_2023_326\test.c(275,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Test\Test_2023_326\Test_2023_326\test.c(275,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Test\Test_2023_326\Test_2023_326\test.c(276,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Test\Test_2023_326\Test_2023_326\test.c(276,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Test\Test_2023_326\Test_2023_326\test.c(279,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Test\Test_2023_326\Test_2023_326\test.c(279,9): message : 请考虑在格式字符串中使用“%zd”
+  Test_2023_326.vcxproj -> D:\Test\Test_2023_326\x64\Debug\Test_2023_326.exe
